@@ -2,7 +2,6 @@
 *Realisé par Thierry ZOMA, Mars 2024*
 
 ### RESSOUCRE DU PROJET:
-dans le dossier BI-PROJECT:
 - la source de donnees: Hypermarché.xlsx
 - la base de donnees: datamart.sql
 - le tableau de bord power BI: Dashboard_hypermarche.pbi
